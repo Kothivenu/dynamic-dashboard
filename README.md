@@ -45,6 +45,25 @@ The primary objective of the **Dynamic Retail Dashboard** is to provide a compre
 | Quantity       | Sum of Quantity         | 🔍         |
 | Order Priority | Count of Order Priority | 💩         |
 
+problem statements:
+
+Charts showing Segment, Categoty and Markets Analysis	
+![image](https://github.com/user-attachments/assets/199e44ed-38da-459d-ad5c-91b9c766a266)
+
+Top 5 and bottom 5 charts for Sales, Profits, Order Quantity
+![image](https://github.com/user-attachments/assets/81297397-f25c-4701-928c-5ad460641407)
+
+World map showing the top 10 countries by Sales	
+![image](https://github.com/user-attachments/assets/c24e8ae8-3af1-4f7a-b5d9-6877b00fd22d)
+
+Top Sub-Category and their contribution to the overall Sales
+![image](https://github.com/user-attachments/assets/6dcc769b-8fd5-4d0b-812f-0551f0ed6c05)
+
+Charts showing the Market Share of Regions
+![image](https://github.com/user-attachments/assets/957e1b5d-6637-4e32-b02d-7d1ed147a3d2)
+
+
+
 ## Steps to Create the Dashboard
 
 ### 1. Data Preparation
