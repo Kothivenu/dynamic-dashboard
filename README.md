@@ -47,7 +47,7 @@ The primary objective of the **Dynamic Retail Dashboard** is to provide a compre
 
 problem statements:
 
-Charts showing Segment, Categoty and Markets Analysis	
+Charts showing Segment, Category and Markets based on kpi values
 ![image](https://github.com/user-attachments/assets/199e44ed-38da-459d-ad5c-91b9c766a266)
 
 Top 5 and bottom 5 charts for Sales, Profits, Order Quantity
