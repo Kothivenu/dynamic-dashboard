@@ -102,7 +102,5 @@ Charts showing the Market Share of Regions
 
 ## Conclusion
 
-The **Dynamic Retail Dashboard** serves as a powerful tool for retail data analysis. By integrating multiple datasets and visualizing key metrics, it empowers businesses to understand their performance comprehensively. The dynamic and interactive nature of the dashboard allows for flexible exploration of data, ensuring that insights are actionable and relevant. This project highlights the importance of combining robust data preparation, meaningful KPIs, and intuitive visualizations to create impactful analytical tools.
-
-
-![image](https://github.com/user-attachments/assets/85f044f4-c553-4211-b2f9-9f6b2db7f091)
+The **Dynamic Retail Dashboard** serves as a powerful tool for retail data analysis. By integrating multiple datasets and visualizing key metrics, it empowers businesses to understand their performance comprehensively. The dynamic and interactive nature of the dashboard allows for flexible exploration of data, ensuring that insights are actionable and relevant. This project highlights the importance of combining robust data preparation, meaningful KPIs, and intuitive visualizations to create impactful analytical tools
+![image](https://github.com/user-attachments/assets/9b0656f4-3585-4646-94d2-738e9bbefe30)
